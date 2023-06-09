@@ -1,0 +1,4 @@
+Student 1 grade: 95.00
+Student 2 grade: 83.00
+Student 3 grade: 67.00
+Group average grade: 81.67
